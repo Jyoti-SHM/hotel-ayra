@@ -8115,7 +8115,8 @@ section.elementor-section.elementor-top-section.elementor-element.elementor-elem
 
 @media(max-width:767px) {
   .elementor-187 .elementor-element.elementor-element-8f1346b .slider_parallax_wrapper {
-    height: 100vh;
+    height: 80vh;
+        margin: 20% 0;
   }
 
   .elementor-187 .elementor-element.elementor-element-8f1346b .slider_parallax_wrapper .slide .caption {
@@ -8132,7 +8133,7 @@ section.elementor-section.elementor-top-section.elementor-element.elementor-elem
   }
 
   .elementor-187 .elementor-element.elementor-element-b10bbac {
-    margin-top: -230px;
+    margin-top: -310px;
     margin-bottom: 0px;
     padding: 0px 0px 0px 0px;
   }
