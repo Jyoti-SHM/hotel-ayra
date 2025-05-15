@@ -8595,6 +8595,7 @@ p>a {color: #fff;}
 .btm-icons{display: flex;align-items: center;}
 .btm-icons img{margin-right: 5px;}
 .btm-icons{padding: 0;color: #fff;}
+.btm-icons a:hover{color: #fff !important;}
 .js-cont{justify-content: center;}
 .txt-ctr{text-align: center;}
 .mrg0{margin: 0 !important;}
